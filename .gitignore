@@ -1,0 +1,6 @@
+*.pdf
+*.sty
+*.log
+*.tex
+*.aux
+tikz-page*
